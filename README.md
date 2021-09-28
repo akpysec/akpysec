@@ -1,12 +1,13 @@
-### Hi there, I'm Andrey - aka AKPySec 👋
+### Hi there, I'm Andrey - aka AKPySec 👋 [<img align="left" alt="AKPySec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 #### I'm a Cyber Security Specialist with passion for developing security tools with 🐍 Python
 
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="AKPySec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+ -->
 <br />
 
 ### Languages and Tools:
