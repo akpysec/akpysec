@@ -35,4 +35,5 @@
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/andrey-kolihanov-002395150/
+<a href=”https://www.linkedin.com/in/andrey-kolihanov-002395150/"><img align=”left” src=”https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=”icon | LinkedIn” width=”21px”/></a>
+
