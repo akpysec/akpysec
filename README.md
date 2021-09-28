@@ -1,17 +1,12 @@
 ### Hi there, I'm Andrey - aka AKPySec 👋
 
 ## I'm a Cyber Security Specialist with passion for developing security tools with 🐍 Python
-<!--
-- 🔭 I just launched my first course: 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+
 
  ### Connect with me:
 
 [<img align="left" alt="AKPySec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
--->
+
 <br />
 
 ### Languages and Tools:
@@ -31,9 +26,6 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
 <br />
 
-<a href=”https://www.linkedin.com/in/andrey-kolihanov-002395150/"><img align=”left” src=”https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=”icon | LinkedIn” width=”21px”/></a>
-
+[linkedin]: https://www.linkedin.com/in/andrey-kolihanov-002395150/
