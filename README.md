@@ -1,5 +1,4 @@
-### Hi there, I'm Andrey - aka AKPySec   [<img alt="AKPySec | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/48283299/135170175-cfa3551b-1889-4042-9a34-1bdaa63a6c27.png" />][linkedin]
-
+### Hi there, I'm Andrey - aka AKPySec 
 
 #### I'm a Cyber Security Specialist with passion for developing security tools with 🐍 Python
 
@@ -26,5 +25,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br />
+####Connect with me:
+
+[<img alt="AKPySec | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/48283299/135170175-cfa3551b-1889-4042-9a34-1bdaa63a6c27.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/andrey-kolihanov-002395150/
