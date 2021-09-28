@@ -3,7 +3,6 @@
 #### I'm a Cyber Security Specialist with passion for developing security tools with 🐍 Python
 
 <br />
-
 ### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
