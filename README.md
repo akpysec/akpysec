@@ -1,5 +1,5 @@
 <p align="center">
-  <a target="_blank" rel="noreferrer"><img src="![BackGround](https://user-images.githubusercontent.com/48283299/135230379-32b82998-f46a-4dcb-9ef5-d0de95aca55c.PNG)
+  <a target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48283299/135230379-32b82998-f46a-4dcb-9ef5-d0de95aca55c.PNG
 " alt="my banner"></a>
 </p>
 
