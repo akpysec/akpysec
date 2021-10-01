@@ -1,5 +1,5 @@
 <p align="center">
-  <a target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48283299/135590680-cb0190a5-ac8e-4426-9584-5f637229cbe7.png" alt="my banner"></a>
+  <a target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48283299/135591084-51bdb940-6fdb-45a3-ac7d-2461a1b80401.png" alt="my banner"></a>
 </p>
 
 ### Hi there, I'm Andrey - aka AKPySec | [<img alt="AKPySec | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/48283299/135240882-3918cedb-215b-4d50-abb5-d2e9c1bf580c.png" />][linkedin]
