@@ -2,7 +2,7 @@
   <a target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48283299/135591084-51bdb940-6fdb-45a3-ac7d-2461a1b80401.png" alt="my banner"></a>
 </p>
 
-### Hi there, I'm Andrey - aka AKPySec | [<img alt="AKPySec | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/48283299/135240882-3918cedb-215b-4d50-abb5-d2e9c1bf580c.png" />][linkedin]
+### Hi there, I'm Andriy - aka AKPySec | [<img alt="AKPySec | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/48283299/135240882-3918cedb-215b-4d50-abb5-d2e9c1bf580c.png" />][linkedin]
 
 #### I'm a Cyber Security Specialist with passion for developing security tools with 🐍 Python
 
